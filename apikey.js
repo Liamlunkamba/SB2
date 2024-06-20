@@ -1,0 +1,2 @@
+const apikey = "live_cTBlPlitjQXr92cOiyHljrHCUgNRtTVHXbjSTprMCloO2IXWS2tGbPxB6KvYSsbA"
+export default apikey
